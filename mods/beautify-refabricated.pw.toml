@@ -1,0 +1,13 @@
+filename = 'beautify-1.6.0+1.21.6.jar'
+name = 'Beautify: Refabricated'
+side = 'both'
+
+[download]
+hash = 'edffd9130da65f489a750eea56cbade694995dbf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6708140
+project-id = 809311

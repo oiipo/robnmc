@@ -1,0 +1,12 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "PROFILE_SELECTOR": {
+                "bottom": 1
+            },
+            "SETTINGS": {
+                "top": -4
+            }
+        }
+    }
+}

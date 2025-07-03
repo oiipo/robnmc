@@ -1,0 +1,13 @@
+name = "Niggacraft"
+author = "oiipo"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "917b9b5b15d6fc2a6381aacbe8432bf8fc67d4b55a480a6509b1447a38b4e1df"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.7"

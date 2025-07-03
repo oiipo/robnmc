@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "963828aa67d420d11e38432b273bafccaee0b0e777ee5ef1e34b6a666db65f91"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "e842e36de601be64b8e479e82508e152c7532c367fa8226d3afc73f34ddb7d35"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e72754f5cb80cac1e157500d5236760730a7c92c2eeca3ee6fdf0b5a91e955f3"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "007218e883072c25604bba68ddb256a042bb35453e4ea7c63048ceeb39c22112"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e7e9de15033e7730755b994a1bb8b92354c00e8f69113a5294a4cc5936979c9d"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1b692aa4c7c5f8f6bac078edccb54c95581cf2abb76d578c76972ec6c0058070"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "1eba75e2e6911fb5ae42443d92fda61a0c50c3e69655535c66d23bc3203e1487"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e20267f1fa56f75911884b3eec308aba2fbcf2769695e99b6053ea1523eab12c"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "abcf6f27a3a50e0da058f261794e277bfbe42c386dd69ee727a9f0f5f4ab8b83"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1db5071f6c4905b89163e0578bcb4a145056fe12577a9f21c56084c0593a090b"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-backpacks.pw.toml"
+hash = "830f80ea4d5f969d89668664ae7c396f9a7f34ea3856bf2b73e5b050292a989f"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "42dfc16502203a7413748f07d94f385edd347d78beaa392d75806bc72aa5f006"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "19ebb76b41996eb05a925dfcb4c0848f43ee00753a0d48112d272ef2823fdfe8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "79f1588e4cfe02ab8903b6065fed1e03e0a1e73e473f5ab57ea76837744e080c"
+metafile = true
+
+[[files]]
+file = "mods/your-items-are-safe.pw.toml"
+hash = "35ce543171cc0fa58560b0dd2a55b8e49a51ba04307160127e37c9f148bfc3d2"
+metafile = true
