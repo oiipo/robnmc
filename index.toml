@@ -123,6 +123,10 @@ hash = "f928504d27a0439b113bc448fcbc7aaa9d26eb81f4dd600710e9d891861fb318"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "c9821016c873fca9a3f7534de3a84d06fbb3ef162c1c245844aeb70f46d77a37"
+
+[[files]]
 file = "shaders/ComplementaryReimagined_r5.5.1.zip"
 hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
 
