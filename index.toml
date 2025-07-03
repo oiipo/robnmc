@@ -19,12 +19,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "73af155d199247f4fbe3ab47c43d6794b3df9af489b853c457cafe7aec036e8e"
+hash = "6b7aa327252f1aff9585c55b796cf8e0cbf36807c17a33ccde06ee854e827622"
 metafile = true
 
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
-hash = "1ba3dfef1d425672e6dea447e6fe33ab1c7e145d19d9d7fdc8d7eef5f24eb44d"
+hash = "9f063a6b8642ab3f224834e059fd95478f372ee8883fcb61b0f97fb1bac074b5"
 metafile = true
 
 [[files]]
@@ -34,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e898d87ce898bdd76e19de241be14dd4b2fe54a034fc5615eba141f47b3fdd96"
+hash = "7621c38bf5eb90cc7458a78eeab30088bae4bf9f29f72bbc2a2a7c37fc06b551"
 metafile = true
 
 [[files]]
@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "4476ad0a190f3f65df3466baeeaa30e3e8c4f944b0e49ef4ebd4ba19887d91de"
+hash = "02b27d5de167cf0c7636642b9b27bb4e5a444a2ee9281fee5f4fb55605f0bdf8"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "749b26e22717573ce5455bf4a809e8c8037620a978ca67d584c3876d8232e1a1"
+hash = "031107f8617619ec0f71d68820e3a7a5aa7eb4ea4cb9bdf79af11b03da7fbe17"
 metafile = true
 
 [[files]]
@@ -104,22 +104,22 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-backpacks.pw.toml"
-hash = "a50c3247a5a713ffc93671a3d83b2dbcc9ae709ba1cac956bff01cf01f8b4950"
+hash = "72e0c4870abccd2ded922c9bb5dc9d732aa2d73084dacda480cc94ed2fef5133"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "991781331553ec10b27bc2bf730819b2c8fe1f6895f22c02ef16782e437aa41b"
+hash = "53e4e9bb1090a05f15b1a641476cac0f3d56c01b309c880c28b04c8311e355f7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2e4b50d17a4c86de8899a1747b54c9ec75dc0c60c964c495493766ce88b65f18"
+hash = "cd843589fff4f995f2303fcc3d38ab26f29975c5ee039c57b3cfc552bc733731"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f928504d27a0439b113bc448fcbc7aaa9d26eb81f4dd600710e9d891861fb318"
+hash = "b7c61742047a086836b8b69513a42dced6df9fb3ecfcd946af24cbb782941f4f"
 metafile = true
 
 [[files]]
