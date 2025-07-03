@@ -1,38 +1,60 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "10cd1a196f18989738bf8e964d1ab5c9aa51a44506e3bb1f5d1a3fe2275649b2"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "b5be17a791130e0eda4e9506548a99322a11a3064dd910dc90c616e8fcc5fbcc"
+
+[[files]]
+file = "mods/areas.pw.toml"
+hash = "fbaf6b9426b874da6b0b28af5df2f509f559f4b0c24469ea2453a30dbec0732c"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
-hash = "963828aa67d420d11e38432b273bafccaee0b0e777ee5ef1e34b6a666db65f91"
+hash = "73af155d199247f4fbe3ab47c43d6794b3df9af489b853c457cafe7aec036e8e"
 metafile = true
 
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
-hash = "e842e36de601be64b8e479e82508e152c7532c367fa8226d3afc73f34ddb7d35"
+hash = "1ba3dfef1d425672e6dea447e6fe33ab1c7e145d19d9d7fdc8d7eef5f24eb44d"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "24784dbc145bf8247f7f85707e0f143bb1250b3fd251a2947928d66759f60d4b"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e72754f5cb80cac1e157500d5236760730a7c92c2eeca3ee6fdf0b5a91e955f3"
+hash = "e898d87ce898bdd76e19de241be14dd4b2fe54a034fc5615eba141f47b3fdd96"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "007218e883072c25604bba68ddb256a042bb35453e4ea7c63048ceeb39c22112"
+hash = "a0c58101124c333b0c65a0abf315a0d2cdc1a6691ff1244f9a2cf911f4bf317e"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "e7e9de15033e7730755b994a1bb8b92354c00e8f69113a5294a4cc5936979c9d"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "1b692aa4c7c5f8f6bac078edccb54c95581cf2abb76d578c76972ec6c0058070"
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "e46c12198a421f1435c860e5f13c5d3d962088af18b2a9f12ac8e7dcccab131a"
 metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "1eba75e2e6911fb5ae42443d92fda61a0c50c3e69655535c66d23bc3203e1487"
+hash = "4476ad0a190f3f65df3466baeeaa30e3e8c4f944b0e49ef4ebd4ba19887d91de"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "f40f76152defc4a7f45dcc5f7eaf6f1c3a216917c8b4611248c207b29affd197"
 metafile = true
 
 [[files]]
@@ -41,8 +63,33 @@ hash = "e20267f1fa56f75911884b3eec308aba2fbcf2769695e99b6053ea1523eab12c"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbook.pw.toml"
+hash = "65ad55bc6c946a2c3d1376b10f9a9325e144622fb4c09e53e7390239b485942f"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "9c1b5db9a25951f5d60fb65319a4a3cb76d72d5d54f2e12efc35c104f1b12b17"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "19c5cbdd1b23407940f0b59485115a98656572b6fda9f75bd1267b87450dd1a3"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "b7795148a655c0a50a46f47ed1cc4f1aedee6f7d26e9298897d07054b2e9271f"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "abcf6f27a3a50e0da058f261794e277bfbe42c386dd69ee727a9f0f5f4ab8b83"
+hash = "749b26e22717573ce5455bf4a809e8c8037620a978ca67d584c3876d8232e1a1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "77c789d0fc1e361524a349af67d79002381645124abd1822a81ee347218c76f3"
 metafile = true
 
 [[files]]
@@ -51,26 +98,26 @@ hash = "1db5071f6c4905b89163e0578bcb4a145056fe12577a9f21c56084c0593a090b"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "8183005e16a646fd38e151f6414c7c3b33ccb16b0bb5d672675d493ab667763e"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-backpacks.pw.toml"
-hash = "830f80ea4d5f969d89668664ae7c396f9a7f34ea3856bf2b73e5b050292a989f"
+hash = "a50c3247a5a713ffc93671a3d83b2dbcc9ae709ba1cac956bff01cf01f8b4950"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "42dfc16502203a7413748f07d94f385edd347d78beaa392d75806bc72aa5f006"
+hash = "991781331553ec10b27bc2bf730819b2c8fe1f6895f22c02ef16782e437aa41b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "19ebb76b41996eb05a925dfcb4c0848f43ee00753a0d48112d272ef2823fdfe8"
+hash = "2e4b50d17a4c86de8899a1747b54c9ec75dc0c60c964c495493766ce88b65f18"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "79f1588e4cfe02ab8903b6065fed1e03e0a1e73e473f5ab57ea76837744e080c"
-metafile = true
-
-[[files]]
-file = "mods/your-items-are-safe.pw.toml"
-hash = "35ce543171cc0fa58560b0dd2a55b8e49a51ba04307160127e37c9f148bfc3d2"
+hash = "f928504d27a0439b113bc448fcbc7aaa9d26eb81f4dd600710e9d891861fb318"
 metafile = true
