@@ -1,13 +1,13 @@
 name = "Niggacraft"
 author = "oiipo"
-version = "1.0"
+version = "2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9d905e62879f30b2ed99dd7bb0e55b4a39a343d8955f6b5ed01a08a014b3fec3"
+hash = "b8b32208d0e238298576afbede80affdede9ecf949daa730b7ecbec88a6160aa"
 
 [versions]
-fabric = "0.16.14"
-minecraft = "1.21.7"
+minecraft = "1.21.1"
+neoforge = "21.1.188"

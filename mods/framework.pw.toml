@@ -1,13 +1,13 @@
-name = "Framework"
-filename = "framework-fabric-1.21.7-0.12.3.jar"
-side = "both"
+filename = 'framework-neoforge-1.21.1-0.9.6.jar'
+name = 'Framework'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "7dad901d2ba77875676cded450a6161c12dc3dbe"
-mode = "metadata:curseforge"
+hash = '5a6b6c61b856098bfe8c9d35b92638ddbc14da27'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
-file-id = 6715526
+file-id = 6531439
 project-id = 549225
