@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "fc3bbeae4d00699614662b4784fcdbf7bd31737a32b2b78992753d64999f5a9f"
+hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
-hash = "77b942ddf31bd153e5cfeaaf193b89771e567717978894299541d2fbbde69a4e"
+hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
 
 [[files]]
@@ -234,12 +234,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "5be660f6a9af588a3fb4b7b62844aea82560b28efa0739121132a851d5173966"
+hash = "d3ef4867e3ab6a7719cc63fac97a3bbf6bf09065387ee87f87544d40bae84c3b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b1d5f26ea44570f59678a5fe221ebcdee3018febda48ee303fb24cf498ae6f72"
+hash = "4d089d75de8c9cde2d7bf931a0f8dd7a6590ff98cc7713f8f4b9be5a87310260"
 metafile = true
 
 [[files]]
