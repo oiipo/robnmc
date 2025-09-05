@@ -363,11 +363,6 @@ hash = "bf62fc87ede6198cc3ff0fc53ef0417d788e76f3f63e8ddc7a80da9872295eb5"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-backpacks.pw.toml"
-hash = "1936a39044756857c3e572d26bd8c2fc8419120fde5ca2f0882b9fe07aa9f17e"
-metafile = true
-
-[[files]]
 file = "mods/veinminer-client.pw.toml"
 hash = "63d11abf43619941f5dfa77daccf9eac417cd20f82868bed1014d5bf6e7e1681"
 metafile = true
