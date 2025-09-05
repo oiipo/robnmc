@@ -293,11 +293,6 @@ hash = "35eb897c9736c48125a8f86253bc5c0f6f1b3891127d7c300d00b0339167cd36"
 metafile = true
 
 [[files]]
-file = "mods/silk.pw.toml"
-hash = "90d1f4ee70f4b208b623af04b48be8fd5b98b411cbd4d9d0a5b23d07ba99c1e4"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "90e005daa3742e4a0be52b7912de8e79ea1da752ee20d89511205fb9e238b4f1"
 metafile = true
@@ -370,11 +365,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bf62fc87ede6198cc3ff0fc53ef0417d788e76f3f63e8ddc7a80da9872295eb5"
-metafile = true
-
-[[files]]
-file = "mods/veinminer-client.pw.toml"
-hash = "63d11abf43619941f5dfa77daccf9eac417cd20f82868bed1014d5bf6e7e1681"
 metafile = true
 
 [[files]]
