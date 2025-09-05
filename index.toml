@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
@@ -15,11 +20,6 @@ hash = "b5be17a791130e0eda4e9506548a99322a11a3064dd910dc90c616e8fcc5fbcc"
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b74cf679245fc0b470b94f7d3ef427954c56f6c38806105c95cf38685d99e555"
-metafile = true
-
-[[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
