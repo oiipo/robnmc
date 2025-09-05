@@ -218,11 +218,6 @@ hash = "c8c9fccd7d99b0af6158d22670c8ace3e9abd747608c5e29e1637f70178864af"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
-hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
-metafile = true
-
-[[files]]
 file = "mods/lcbackport.pw.toml"
 hash = "d0aa2439ec7df6ccf2fd8353bde30d0f045509d87b6a5bdad1490b92a6ff1eb6"
 metafile = true
@@ -300,6 +295,11 @@ metafile = true
 [[files]]
 file = "mods/sinytra1343.pw.toml"
 hash = "f9ce2a505c7eb22a4923d57076d6f942b96b26251b070fbca07672333e0f44fd"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "4bde9ea7fd1867a1e1452c500676dd4c691514c24da64fae1905b1a12e185232"
 metafile = true
 
 [[files]]
