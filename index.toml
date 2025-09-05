@@ -28,6 +28,11 @@ hash = "da96726d9a02eeaeee62cf2fafc616ca8c979f56f1b22afd669c117eeb3057b8"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "fcd0c25f93c2ddc9811609b774df84a0eb362cff602e8cdf2ec84816ecc9a6f3"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "6f1b842bcab873b16f0898c910be335d4d80250764f3dbf517584359704b7fc3"
 metafile = true
@@ -45,6 +50,26 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "fa0027a52ae1c916316b340ef2200acc7c66455c3edd5be839fafd3edc75e9e2"
+metafile = true
+
+[[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "479dab388743fb59d3399d2d87a0a7dc0819a4184b74f734fa9cc1eecdd6f6f6"
+metafile = true
+
+[[files]]
+file = "mods/cerbons-better-beacons.pw.toml"
+hash = "5c92ca1ecca22abcb1c7dd8333042d2a5b5c5259fdcc44ebb497cd1859606460"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "5f0d87ae88243df2390d5d8a2b0fdf312382ccae83084c9a1ba807c08fbcc013"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -93,6 +118,16 @@ hash = "f3e21f84e8423c25d6f862291b754a1bdb58e8e6847b8901c01954bebea71aa0"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "bbc15c019fd260bbb9058b14a8e03232a55df77608d9aca466d051007d62abd2"
+metafile = true
+
+[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "f875588dab7596284ac4a4af91b7d2c650100111c6dfb51c7159ef523536ca65"
 metafile = true
@@ -103,8 +138,23 @@ hash = "990440461d18696ec496072dd118bf1ffbbe089080c47dcc7d17bf7ee245b018"
 metafile = true
 
 [[files]]
+file = "mods/ender-potions.pw.toml"
+hash = "cb2f885c7e5e5f7c65e37eb491478fff8f8017a6a01ebe610114a4d61fc1bce3"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "af402152ceed21b9467f2a95a02a32b5c02af3b734a5b0a37e96dd34c694ec33"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "3e11ffcdd1d2c77ac05bf2fbeb52f746491efbc8b2664e80aed8670856c0f686"
 metafile = true
 
 [[files]]
@@ -115,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "018c7f1828e1d350684036c87f9c8b88041eb38fa5f89753296aedcb3f93ac9c"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "8149cdb52f8798891b5287923f3235258703f72019a1c8f5419e764bbbbfd002"
 metafile = true
 
 [[files]]
@@ -140,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "81a33f52a83db85c1df018106efe65a259482dcc2e65e725b721aac063e74401"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "250a60ad345454a739a4ed90779501c31c90f5be387c3e52816ced6713012e98"
 metafile = true
 
 [[files]]
@@ -193,6 +253,11 @@ hash = "05122fca54725773ed202a5d527a1b57f2a8eb8a57ef32b05a90759fda9ec829"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "86c688ed4fbeb2ea114cf51c09e476d0f9c4bc4cf63d5b5b927dfc0f4f486718"
+metafile = true
+
+[[files]]
 file = "mods/perfect-parity-1-21-5.pw.toml"
 hash = "49e0811fe174046317cba4a2f574938c6e09ce948903eb642339426f27340012"
 metafile = true
@@ -200,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/perfect-parity-the-garden-awakens-edition.pw.toml"
 hash = "e54d5ba962c244265678a3d13877d008b2d95e69c41e6135e5424e48e3997cc2"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
@@ -273,6 +343,11 @@ hash = "acca3f6ac6b9a2b12076c0539d19962b45d41da7f53fa8d2ee3feb33a990554a"
 metafile = true
 
 [[files]]
+file = "mods/trimmed.pw.toml"
+hash = "48a3d2303e013e2c5ce4cbfec4d797a0066719434f795f564b7489b63c7b817e"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bf62fc87ede6198cc3ff0fc53ef0417d788e76f3f63e8ddc7a80da9872295eb5"
 metafile = true
@@ -280,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-backpacks.pw.toml"
 hash = "1936a39044756857c3e572d26bd8c2fc8419120fde5ca2f0882b9fe07aa9f17e"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-client.pw.toml"
+hash = "63d11abf43619941f5dfa77daccf9eac417cd20f82868bed1014d5bf6e7e1681"
 metafile = true
 
 [[files]]
@@ -295,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "02b910fbb42088a77284549274a3b28d0f80f5544778450a26c65bd23b6d0fb2"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
 metafile = true
 
 [[files]]
