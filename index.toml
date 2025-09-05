@@ -188,6 +188,11 @@ hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "814fcd0184c7e2137cd6259dc20cd2b416224305939f367d19caaf81f4f4940c"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "79dcaca4bfb4b7aedcb2c5fc5266d81b07d38acefdbf8ae0d7f8c142b69373c2"
 metafile = true
