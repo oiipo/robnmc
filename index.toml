@@ -123,6 +123,11 @@ hash = "082a37f089430e72bb56ec9ab1e6577796684727d706630118508e15b0c29c77"
 metafile = true
 
 [[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "1d8fce350ce2671f24579691c47bc178ee7b644751ecec5f068427058de0cd2b"
 metafile = true
@@ -253,11 +258,6 @@ hash = "c8c9fccd7d99b0af6158d22670c8ace3e9abd747608c5e29e1637f70178864af"
 metafile = true
 
 [[files]]
-file = "mods/lcbackport.pw.toml"
-hash = "d0aa2439ec7df6ccf2fd8353bde30d0f045509d87b6a5bdad1490b92a6ff1eb6"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "57100c4b98ff0604b374e3e97480b7a1533e2b107a2246cbca9e13be5bd5cfce"
 metafile = true
@@ -293,13 +293,8 @@ hash = "86c688ed4fbeb2ea114cf51c09e476d0f9c4bc4cf63d5b5b927dfc0f4f486718"
 metafile = true
 
 [[files]]
-file = "mods/perfect-parity-1-21-5.pw.toml"
-hash = "49e0811fe174046317cba4a2f574938c6e09ce948903eb642339426f27340012"
-metafile = true
-
-[[files]]
-file = "mods/perfect-parity-the-garden-awakens-edition.pw.toml"
-hash = "e54d5ba962c244265678a3d13877d008b2d95e69c41e6135e5424e48e3997cc2"
+file = "mods/platform.pw.toml"
+hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
 metafile = true
 
 [[files]]
@@ -339,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "4bde9ea7fd1867a1e1452c500676dd4c691514c24da64fae1905b1a12e185232"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
@@ -400,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bf62fc87ede6198cc3ff0fc53ef0417d788e76f3f63e8ddc7a80da9872295eb5"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
 metafile = true
 
 [[files]]
