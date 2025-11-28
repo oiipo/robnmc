@@ -1,0 +1,9 @@
+filename = 'copperagebackport.jar'
+name = 'copperagebackport'
+side = 'both'
+
+[download]
+hash = '5667e9ec8fb867dfa1e62fc00c9819b584dc5dd9a2816a3909f8f6e125c8110d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://github.com/oiipo/robnmc/raw/refs/heads/main/mods/copperagebackport-neoforge-1.21.1-0.1.2.jar'
