@@ -43,6 +43,11 @@ hash = "fcd0c25f93c2ddc9811609b774df84a0eb362cff602e8cdf2ec84816ecc9a6f3"
 metafile = true
 
 [[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "370e0db8705861763af96d1fd346b9d28807b5496353b949c8e1159290b10de7"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "6f1b842bcab873b16f0898c910be335d4d80250764f3dbf517584359704b7fc3"
 metafile = true
@@ -101,14 +106,6 @@ metafile = true
 file = "mods/connector.pw.toml"
 hash = "d8b48452b5e57c299e6d81170014d166ccac886972ee0093b2ebc0dcbc4f7143"
 metafile = true
-
-[[files]]
-file = "mods/copperagebackport-neoforge-1.21.1-0.1.2.jar"
-hash = "5667e9ec8fb867dfa1e62fc00c9819b584dc5dd9a2816a3909f8f6e125c8110d"
-
-[[files]]
-file = "mods/copperagebackport.toml"
-hash = "273f98807e00071fe9b7abf8dde19084456a5eca89e932a9d6f13766e2e1feb6"
 
 [[files]]
 file = "mods/corpse.pw.toml"
