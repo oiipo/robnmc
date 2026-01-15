@@ -1,16 +1,13 @@
-filename = 'framework-fabric-1.21.11-0.13.8.jar'
-name = 'Framework'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.11' ]
-x-prismlauncher-release-type = 'beta'
+name = "Framework"
+filename = "framework-fabric-1.21.11-0.13.8.jar"
+side = "both"
 
 [download]
-hash = '33c9d9b25e0bcb4021f9243fdc59e7d342aa9a07'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "33c9d9b25e0bcb4021f9243fdc59e7d342aa9a07"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7353230
 project-id = 549225
