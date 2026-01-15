@@ -1,13 +1,16 @@
-filename = 'ArmorPoser-neoforge-1.21.1-6.2.2.jar'
+filename = 'ArmorPoser-fabric-1.21.11-13.0.1.jar'
 name = 'Armor Poser'
 side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '4a1567f157ae311bab73e74c5d86f9b446bbf3b7bbb2bd5cd30481377861cb8932df3faa072d5af5dce2ae1c321064f5ea0694a2424692c18df24b28a516db4c'
+hash = '3108a3a873916bf44f843be23baa330dce36ab7a2324defc80414bfc0d7b8d6e4cfe5404d972606343808610ca46db81955474b5ab13acaf4d3c582095dc4cbe'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/PFwYNrHb/versions/V170GebO/ArmorPoser-neoforge-1.21.1-6.2.2.jar'
+url = 'https://cdn.modrinth.com/data/PFwYNrHb/versions/TbRiWhUJ/ArmorPoser-fabric-1.21.11-13.0.1.jar'
 
 [update.modrinth]
 mod-id = 'PFwYNrHb'
-version = 'V170GebO'
+version = 'TbRiWhUJ'

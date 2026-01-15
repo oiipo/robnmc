@@ -1,13 +1,16 @@
-filename = 'voicechat-neoforge-1.21.1-2.5.34.jar'
+filename = 'voicechat-fabric-1.21.11-2.6.11.jar'
 name = 'Simple Voice Chat'
 side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '3139491b7bc473f9b7194a7fa3f55260cb525c41597bcf3d9e1a4c879828dea55c6eca1c8af0fa56d95563319e32e0288957f64982c27fea63a856918105fee9'
+hash = '2ddab762110037616ef55403f97dfb4fa6df7c37bc12554a6f4d4bb40cebe102ff671c4876bb3cb0f98ad2542f414b079a6e48aa20656c9a13c4bfbdf908b534'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/9eGKb6K1/versions/QXvxq76M/voicechat-neoforge-1.21.1-2.5.34.jar'
+url = 'https://cdn.modrinth.com/data/9eGKb6K1/versions/1OVXKX2W/voicechat-fabric-1.21.11-2.6.11.jar'
 
 [update.modrinth]
 mod-id = '9eGKb6K1'
-version = 'QXvxq76M'
+version = '1OVXKX2W'

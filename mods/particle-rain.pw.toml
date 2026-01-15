@@ -1,13 +1,16 @@
-name = "Particle Rain"
-filename = "particlerain-4.0.0-alpha.3+1.21.1-neoforge.jar"
-side = "client"
+filename = 'particlerain-4.0.0-beta.5+1.21.11-fabric.jar'
+name = 'Particle Rain'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
-url = "https://cdn.modrinth.com/data/nrikgvxm/versions/tVjgbLg5/particlerain-4.0.0-alpha.3%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "f71ad82c123ee5f80d989c28f47ce67c8e60045d4060a611b52b2b6fd944873de09070f53bdb13c935802e4ba3f65a8c54b3a8ee19fc7cba1641cc5941546e2d"
+hash = '5dc282a2c451538f8b2bc1d4e8f2d8f43b93c6f708552c80e471a6085537865221a9f01f2fc80a01bead353857c67d17daeb3a3d7c51b6af8d8808c81587bb8f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nrikgvxm/versions/8kdLx5yJ/particlerain-4.0.0-beta.5%2B1.21.11-fabric.jar'
 
-[update]
 [update.modrinth]
-mod-id = "nrikgvxm"
-version = "tVjgbLg5"
+mod-id = 'nrikgvxm'
+version = '8kdLx5yJ'

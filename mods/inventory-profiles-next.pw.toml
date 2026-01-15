@@ -1,13 +1,16 @@
-filename = 'InventoryProfilesNext-neoforge-1.21-2.1.9.jar'
+filename = 'InventoryProfilesNext-fabric-1.21.11-2.2.3.jar'
 name = 'Inventory Profiles Next'
 side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'fdb8e76c279d4cb3f074d6d0ecca7c4fcf1c77472b3c3108b92e127e47544c5a369626bd381e8a389f65ff945d208b5aed6ac9e4e18b4f9e1ce14a997f14cbca'
+hash = 'ea6eb09d27c1e53a56e1220e03f5364fa833c8cf6fc2fdd0c0352dab07fab66c9476c0aa7e70859e9bc6c785afa1cbb633a8820d671bb193de3286c5ffa9b891'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/O7RBXm3n/versions/2XL2Hl0C/InventoryProfilesNext-neoforge-1.21-2.1.9.jar'
+url = 'https://cdn.modrinth.com/data/O7RBXm3n/versions/hUyBZiaa/InventoryProfilesNext-fabric-1.21.11-2.2.3.jar'
 
 [update.modrinth]
 mod-id = 'O7RBXm3n'
-version = '2XL2Hl0C'
+version = 'hUyBZiaa'
