@@ -1,0 +1,7 @@
+name = "CC-Tweaked"
+filename = "cc-tweaked-1.21.11-fabric-1.116.2-a072b116fae75fbf020d7be1acc69753fefc4641.jar"
+
+[download]
+url = "https://github.com/oiipo/robnmc/raw/refs/heads/main/mods/cc-tweaked-1.21.11-fabric-1.116.2-a072b116fae75fbf020d7be1acc69753fefc4641.jar"
+hash-format = "sha256"
+hash = "ae35851c44ab2934878a79a9e8b201de4d3e2ede69f6531d40dbe1ae95be6c7d"

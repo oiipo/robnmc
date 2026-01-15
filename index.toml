@@ -42,6 +42,11 @@ file = "mods/cc-tweaked-1.21.11-fabric-1.116.2-a072b116fae75fbf020d7be1acc69753f
 hash = "ae35851c44ab2934878a79a9e8b201de4d3e2ede69f6531d40dbe1ae95be6c7d"
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "a2faf8f11a13b35ae5c0fe28f9b7efad0eea71f122e01e8e56431c7a0c8e913c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9c6569f98414d271ed0a420e45541511b67b8c43f0fb8a5f6fa8346d18c2390a"
 metafile = true
