@@ -77,11 +77,6 @@ hash = "9fdf4cc2e022db5ed038eb89273cd7eb9b973018cd854cb537aa38fd88bed813"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "488a2c769bb82cea68bcf28e4decd87202ab00d6268aafb4b75055a2b9114182"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "d1403e904e626fe04ef67fce2b7c28717622ab8182f9af13d2b2270aff190f36"
 metafile = true
