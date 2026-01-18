@@ -1,16 +1,13 @@
-filename = 'create-fly-1.21.11-6.0.9-1.jar'
-name = 'Create Fly'
-side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.11' ]
-x-prismlauncher-release-type = 'release'
+name = "Create Fly"
+filename = "create-fly-1.21.11-6.0.9-2.jar"
+side = "both"
 
 [download]
-hash = '40f995faf921199f1c216adb6c42ea423e12faa03dbddc0ff605d12e69e9f19efb0412a1b5b9240b7a0ab0a4e1ec13a144ac5b68f585506123a85aec2d6b3bed'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/dKvj0eNn/versions/nmRejCEn/create-fly-1.21.11-6.0.9-1.jar'
+url = "https://cdn.modrinth.com/data/dKvj0eNn/versions/rl6RbqSA/create-fly-1.21.11-6.0.9-2.jar"
+hash-format = "sha512"
+hash = "699f58c1b61760fe370622e2852ae399f3641fd0f164875d651c7db73777a2c0b6a6b8cdf22e7d9d50eca82958d87abaeded2422de0dcff5de722d0b34a59744"
 
+[update]
 [update.modrinth]
-mod-id = 'dKvj0eNn'
-version = 'nmRejCEn'
+mod-id = "dKvj0eNn"
+version = "rl6RbqSA"
