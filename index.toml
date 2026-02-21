@@ -157,6 +157,11 @@ hash = "0cbf997f864685142aa51902ec72ed2947938331351f3fef5ea201a3d2cb4c51"
 metafile = true
 
 [[files]]
+file = "mods/picture-mode.pw.toml"
+hash = "4b283ab6e6c08483c2e9e3a79e18beaafcbc751b98bbcb12dc2c317a53044d48"
+metafile = true
+
+[[files]]
 file = "mods/pneumono_core.pw.toml"
 hash = "609c5e2a83445b58c11de14d1ae589d96d2b97490bce67ffd1b20d1b466746e7"
 metafile = true
