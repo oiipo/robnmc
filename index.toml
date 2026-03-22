@@ -63,16 +63,6 @@ hash = "8136f87c25994945b0249f5d50f5e91acf78dc3da7a4e1edd3e695a6c2de77f7"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "42411a515ccaf1e9fb7711a17dfbe1af596bdf8dff588e841ffe8242d2235788"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-walls.pw.toml"
-hash = "7d2e2d1213f0b2805df71ab9fb72eb88e1d1a72e917185dd051751f176d5112e"
-metafile = true
-
-[[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "9fdf4cc2e022db5ed038eb89273cd7eb9b973018cd854cb537aa38fd88bed813"
 metafile = true
@@ -145,11 +135,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "f318ac7cf58d3a90b2a5b5dc75e56030a7a046e90a99d76d2f3a3f12dcd9ecd5"
-metafile = true
-
-[[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "b886722521a83c6f7b952eba3fc1226c5baa2a54c637b14cfe306dcc999cf7d9"
 metafile = true
 
 [[files]]
