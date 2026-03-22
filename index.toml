@@ -38,12 +38,8 @@ hash = "d4b462af6dec47525479f1de355a2499ec44fd199ad71d8b1c9f2e526d922648"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.21.11-fabric-1.117.0-23985ef41f182e3b89fa6453fb408b4bc41c3594.jar"
-hash = "dec4e8f455247730c7e0763b059ce8c5fc1c5617d15b06d42a788154fa043904"
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "138fe237a4ad703b41550613db87dd697221328c1aa73ac177ab3d8e35d43431"
+hash = "f5f1fcd67f77f85b15c9e452dbd480eeb957c21360d47b6396ca52e67976c51a"
 metafile = true
 
 [[files]]
@@ -58,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fly.pw.toml"
-hash = "57519d525420fb3570a1d9fca54faf7fb4ea4316cb6b5587803646014c9c2fd3"
+hash = "8136f87c25994945b0249f5d50f5e91acf78dc3da7a4e1edd3e695a6c2de77f7"
 metafile = true
 
 [[files]]

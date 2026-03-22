@@ -1,7 +1,17 @@
-name = "CC-Tweaked"
-filename = "cc-tweaked-1.21.11-fabric-1.117.0-23985ef41f182e3b89fa6453fb408b4bc41c3594.jar"
+filename = 'cc-tweaked-1.21.11-fabric-1.117.1.jar'
+name = 'CC: Tweaked'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.117.1'
 
 [download]
-url = "https://github.com/oiipo/robnmc/raw/refs/heads/main/mods/cc-tweaked-1.21.11-fabric-1.117.0-23985ef41f182e3b89fa6453fb408b4bc41c3594.jar"
-hash-format = "sha256"
-hash = "dec4e8f455247730c7e0763b059ce8c5fc1c5617d15b06d42a788154fa043904"
+hash = 'ff0a4fbbb45607c9bcdf1661064eda237a3b0813de0b76cb39111f843120f218c054d68f5d12e8083fc920a2c1751925631953465d408bc22ec2f7f41a6b0866'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gu7yAYhd/versions/IikPYYtH/cc-tweaked-1.21.11-fabric-1.117.1.jar'
+
+[update.modrinth]
+mod-id = 'gu7yAYhd'
+version = 'IikPYYtH'
