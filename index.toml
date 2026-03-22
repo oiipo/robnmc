@@ -53,6 +53,11 @@ hash = "2ab64ec838a047951a4beac23be9f5e453b8154022fdd9447907b05ab7f2ae29"
 metafile = true
 
 [[files]]
+file = "mods/crazy-painting.pw.toml"
+hash = "37e2f921227b462495f34dccbf1c3b788a2224445e0922e95d52979c680db43a"
+metafile = true
+
+[[files]]
 file = "mods/create-fly.pw.toml"
 hash = "8136f87c25994945b0249f5d50f5e91acf78dc3da7a4e1edd3e695a6c2de77f7"
 metafile = true
