@@ -1,6 +1,6 @@
 filename = 'cc-tweaked-1.21.11-fabric-1.117.1.jar'
 name = 'CC: Tweaked'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
 x-prismlauncher-release-type = 'alpha'
