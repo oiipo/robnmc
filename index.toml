@@ -178,6 +178,11 @@ hash = "5c1ab2c7bc3e3db1658fd574794cda03d95d306d46250474e80a143091513ee1"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "f2cd50a5fead333e9474f7189eac26e7c32ba6e6aa320f1eb014d1c37f13bd92"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "818950091879b542d9485edfa247ed930225e79cf452c49b6243013148616d81"
 metafile = true
