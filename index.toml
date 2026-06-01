@@ -73,6 +73,11 @@ hash = "608b8651ddf77cb5e658c89225076806d9123d5a27b6924c3a75b3768c85eb83"
 metafile = true
 
 [[files]]
+file = "mods/embers-text-api.pw.toml"
+hash = "9cead0cc0c202fe41c9b6ac59256b18be67fc0a5ae2aecafbee0be6be2ff2c84"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "6c2f5d0b6229451159ab5d44c1b38954dc0236b94388b6e0ac174b5475cd2135"
 metafile = true
@@ -84,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ff892a3c57ccec433c013ab29243199bc08e80876f940e7adf9e92d765670901"
+hash = "8623809fe6a60aa6b9ae6358bf2796742847e8641e1cc27bc3886484125ed6be"
 metafile = true
 
 [[files]]
@@ -115,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "795c3c288e912f45f628ae59676ab01de30427493aa557d40fa96a7969b521d9"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "f900ac5842d10d376c8e53ea93785eae1b059392c456a7fcfd15a5c3bc484031"
 metafile = true
 
 [[files]]
