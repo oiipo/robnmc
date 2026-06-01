@@ -1,16 +1,13 @@
-filename = 'ArmorPoser-fabric-1.21.11-13.0.1.jar'
-name = 'Armor Poser'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.11' ]
-x-prismlauncher-release-type = 'beta'
+name = "Armor Poser"
+filename = "ArmorPoser-fabric-26.1.2-14.1.0.jar"
+side = "both"
 
 [download]
-hash = '3108a3a873916bf44f843be23baa330dce36ab7a2324defc80414bfc0d7b8d6e4cfe5404d972606343808610ca46db81955474b5ab13acaf4d3c582095dc4cbe'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/PFwYNrHb/versions/TbRiWhUJ/ArmorPoser-fabric-1.21.11-13.0.1.jar'
+url = "https://cdn.modrinth.com/data/PFwYNrHb/versions/l1mAfNMP/ArmorPoser-fabric-26.1.2-14.1.0.jar"
+hash-format = "sha512"
+hash = "10306df7ebd34de20f13afd1a1809c1e0adb43dbc66f5bbd4b18d88e1b59786d4c75ecbff9de525d3f8f8f0459efe9f8259b7b566655cac68ca520082e95840b"
 
+[update]
 [update.modrinth]
-mod-id = 'PFwYNrHb'
-version = 'TbRiWhUJ'
+mod-id = "PFwYNrHb"
+version = "l1mAfNMP"
