@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers-text-api.pw.toml"
-hash = "9cead0cc0c202fe41c9b6ac59256b18be67fc0a5ae2aecafbee0be6be2ff2c84"
+hash = "4d48d862418a8ee9a3c1e8453a210adb941b7530195297ec4dcb96051fa7ec09"
 metafile = true
 
 [[files]]
