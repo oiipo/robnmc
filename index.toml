@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fly.pw.toml"
-hash = "6731d22ed64164a8b0ce38d051922ee56c1f08089e6643c969b2a917488aa76c"
+hash = "2c53f7bdb9befb8c990f47a92c32c42a12ca36740c0fd960cbc6b4a57527e11d"
 metafile = true
 
 [[files]]
@@ -195,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "1d240c3d0bae1493396c88a53abe093924f0b8b4a9f030b2e6901023c2cc954b"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "cd6a0de2718685ea9830883a6e572215f67136801df130fff3b0f02d62a85d5d"
 metafile = true
 
 [[files]]
