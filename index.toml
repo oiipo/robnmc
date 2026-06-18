@@ -13,6 +13,14 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "b5be17a791130e0eda4e9506548a99322a11a3064dd910dc90c616e8fcc5fbcc"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "3c62c6e009f24024d6852284b6ed1cb8e5d7a8f9f07d5b6beb6670e652699ca7"
+
+[[files]]
+file = "config/voxy-config.json"
+hash = "1a8f5a615bc13f7a2df5e98efacb040745a33a96ef98a27980434514803b9530"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
@@ -65,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/create-fly.pw.toml"
 hash = "2c53f7bdb9befb8c990f47a92c32c42a12ca36740c0fd960cbc6b4a57527e11d"
+metafile = true
+
+[[files]]
+file = "mods/dreamdisplays.pw.toml"
+hash = "a74639b01dc9b57124d12ab49be2c566fa5a79e2c0dcfa95293a0345f55dddb0"
 metafile = true
 
 [[files]]
