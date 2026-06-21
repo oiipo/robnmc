@@ -1,0 +1,13 @@
+name = "Loyal Items"
+filename = "Loyal Items 1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YhRug9vd/versions/FNpNFYnO/Loyal%20Items%201.0.3.jar"
+hash-format = "sha512"
+hash = "4d1e1f5cabb4686f2aec971bbb1377f4e6150612208f7180138c0827551266edf61844800075765480e99a5cc4841d7bd1af25983a970535587d2ec2fabd29ed"
+
+[update]
+[update.modrinth]
+mod-id = "YhRug9vd"
+version = "FNpNFYnO"

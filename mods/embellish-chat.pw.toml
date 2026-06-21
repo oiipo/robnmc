@@ -1,0 +1,13 @@
+name = "Embellish Chat"
+filename = "embellish-chat-3.6.1+26.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/B0x6P0dg/versions/y75bhhRh/embellish-chat-3.6.1%2B26.1.jar"
+hash-format = "sha512"
+hash = "91766593d9547ab9c7936a19b7f4ed2792fbcded8ea1f164b68fb9f9405ba0fc884e44072a211d40da5f012c9247192873b81d8809e97ed5a2bcfbcac90ecee3"
+
+[update]
+[update.modrinth]
+mod-id = "B0x6P0dg"
+version = "y75bhhRh"

@@ -1,0 +1,13 @@
+name = "Managing Mannequins - Fill Your World With Life!"
+filename = "managing-mannequins-2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YMKfW8Km/versions/IXBjEcBo/managing-mannequins-2.1.jar"
+hash-format = "sha512"
+hash = "2de9b4ef66cd88993edaa84f1d474a811907263342220a70de7ca521758b6d1522047f320182f69f1ca626e5589b92d2cc82259608b5e672193876287724f167"
+
+[update]
+[update.modrinth]
+mod-id = "YMKfW8Km"
+version = "IXBjEcBo"

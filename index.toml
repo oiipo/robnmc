@@ -36,13 +36,13 @@ hash = "a2cde1dc3b401ee2ea936a086d9ac796ae131cef26d3d9df21b48e25f0afb27d"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "a7549d639da1b91e6a4c921c2959436a78d58118f983fb89fd7ba99feebc4837"
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "96a411c5252cd2cf5dba63d528550b271714ad429cf0d1a5d878016b418ec9bc"
 metafile = true
 
 [[files]]
-file = "mods/beautify-refabricated.pw.toml"
-hash = "ee6c467b9b855c378977c2af9a2bc92f0ff3123f3584be13e5eec0697a753cf5"
+file = "mods/balm.pw.toml"
+hash = "a7549d639da1b91e6a4c921c2959436a78d58118f983fb89fd7ba99feebc4837"
 metafile = true
 
 [[files]]
@@ -83,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "608b8651ddf77cb5e658c89225076806d9123d5a27b6924c3a75b3768c85eb83"
+metafile = true
+
+[[files]]
+file = "mods/embellish-chat.pw.toml"
+hash = "06e7264c620c9151a623323f75d347b7d65e20e538ddbf4bc19c8329e3743aeb"
 metafile = true
 
 [[files]]
@@ -171,6 +176,11 @@ hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "f42bccd25295e6202f16a6e38dbf48ab35e18e01692f58646b6b76213b2648b9"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "56ee67066d2a241ed4023f6742427384e3633053bbb9f6b4f59ffd14f038ce1c"
 metafile = true
@@ -181,8 +191,23 @@ hash = "f70d8ec7c871ad284b1e155c7a8a8461edc00c7b1ddecec0c10f212f77911376"
 metafile = true
 
 [[files]]
+file = "mods/logical-efficient-tools.pw.toml"
+hash = "de4a3d600ab609fc12a1feb5c3f6389b6b13d493d7f6f20caefaf6fc91037069"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "121dde2e965c0e757cd0a09a883dddac9ba39ce0ce8a1d3fd5404c46ec87e411"
+metafile = true
+
+[[files]]
+file = "mods/loyal-items.pw.toml"
+hash = "eb2df94d9bb00f67251d66e641e0ca803a2b52e3b37acdd429427b78d4bfca5b"
+metafile = true
+
+[[files]]
+file = "mods/managing-mannequins.pw.toml"
+hash = "9f94f3e7b22861aab1fec54cc3b2eb5285bdec82f374bde111d78d4c55fde521"
 metafile = true
 
 [[files]]
@@ -216,6 +241,11 @@ hash = "cd6a0de2718685ea9830883a6e572215f67136801df130fff3b0f02d62a85d5d"
 metafile = true
 
 [[files]]
+file = "mods/sessility.pw.toml"
+hash = "29421066220dc84faf6e188606c9e961b5cbe74162cb62f75a307ee50add50ac"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a2e9d2e08cb39c159b50ab8a0a2c38896700f7ab66a7682d691dd91628b4b34d"
 metafile = true
@@ -223,6 +253,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "24db419d3ae7213a3ab1821b043474cc0e0aae6996b804d511b20a15bbf185d4"
+metafile = true
+
+[[files]]
+file = "mods/survival-displays.pw.toml"
+hash = "2afa4cbf87ce49fe82d49afab35e3f19421ceeda02b549857a6457b3a6e1589c"
 metafile = true
 
 [[files]]

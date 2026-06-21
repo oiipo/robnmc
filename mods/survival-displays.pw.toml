@@ -1,0 +1,13 @@
+name = "Survival Displays"
+filename = "survival-displays-1.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtYod41W/versions/CLhVJiN1/survival-displays-1.9.jar"
+hash-format = "sha512"
+hash = "70fc13537d9a06550bd7f6e38e3e4c4af5cd779b256c14ff38e5d6260bdf7440c4e15a5fa2d3203e714e08a777f5267770f4588cd5100a07c8fe58ad0ff05994"
+
+[update]
+[update.modrinth]
+mod-id = "AtYod41W"
+version = "CLhVJiN1"
