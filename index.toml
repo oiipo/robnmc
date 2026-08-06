@@ -56,6 +56,11 @@ hash = "506662015b9224271a00e1eb207b0279a21d5caabc82b65a6b4dd9ef680114f0"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "d8e89bbf487f5f5a59f9c2a3a7093ca83ba4ae2040c498348ad55b3f0bbc3385"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "2dc6dd62889718f63c37926e5aca38152dd241644db1c1557c6e9ee72f2919fa"
 metafile = true
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "d8e7a3e4dd5ff305613dfffaa3ec8dd29b03cd8cb827724a6c6f42af6378c2cb"
+hash = "f8395be97bd4fd761835ef875d9152aff4b91d3d60c6d0f43d35680466364723"
 metafile = true
 
 [[files]]
@@ -176,6 +181,11 @@ hash = "0c1462216bc97942fb42e4e08c0c1430a78579233f6677ea582b1a70aea26a71"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "214ca2e92e71aa8a3afec72d4729f5c658bf6103e4893787a532da962d9baa31"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a6d53d9a312a3cb6554453eb73ecd152278f7be8d12e9a8db6126b0cef1d2b68"
 metafile = true
@@ -217,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/managing-mannequins.pw.toml"
-hash = "486a4d4d3015ccc909e04d197c3a03086983da5c1ceeec82be7f6ff4f47d1eaa"
+hash = "9f94f3e7b22861aab1fec54cc3b2eb5285bdec82f374bde111d78d4c55fde521"
 metafile = true
 
 [[files]]
@@ -268,11 +278,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "f90a0823a2d6dadb771ebb1e82026c16a9e6e0a31419c327cf648343fb263386"
 metafile = true
 
 [[files]]
