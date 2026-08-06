@@ -1,13 +1,13 @@
 name = "Dream Displays"
-filename = "dreamdisplays-fabric-26.2-1.9.0-preview.3.jar"
+filename = "dreamdisplays-fabric-26.2-1.9.0-preview.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "71551611f6f5113964ccb747df3b8094f81be978"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4IIKQyBu/versions/zOAe1TJj/dreamdisplays-fabric-26.2-1.9.0-preview.5.jar"
+hash-format = "sha512"
+hash = "dd790b48e4032c07ddf539c190b85dab5eb8087d8a569c5eba1562086dc59f3f801a985ab79258fe1e3f243cf13b825e2d57390b7fd5a12c849b26370faf2237"
 
 [update]
-[update.curseforge]
-file-id = 8464665
-project-id = 1411563
+[update.modrinth]
+mod-id = "4IIKQyBu"
+version = "zOAe1TJj"

@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/dreamdisplays.pw.toml"
-hash = "675df7eacdb80589fe7bd2016336996bd5ee5f0829cdd6aca150135e19d9db80"
+hash = "a2a37d931babb21b5b775164a3e5ff09feb737ee0c6f4b8ef8118b024b89ea31"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "79c704772a1552ffe5753080b261c52d9694874d1b94ce86c3373e8b92c7168f"
+hash = "848db8de89cc26314f20f6cf86e6c2cfc6e2cdd1a30a7d494575a4e24a8ef9f6"
 metafile = true
 
 [[files]]
