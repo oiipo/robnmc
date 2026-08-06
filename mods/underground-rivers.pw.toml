@@ -1,13 +1,13 @@
 name = "Underground Rivers"
-filename = "underground-rivers-1.0.3-fabric-26.1.jar"
+filename = "underground-rivers-1.0.3-fabric-26.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y7J94SaP/versions/AFy6yVxO/underground-rivers-1.0.3-fabric-26.1.jar"
+url = "https://cdn.modrinth.com/data/Y7J94SaP/versions/CM4stjKk/underground-rivers-1.0.3-fabric-26.2.jar"
 hash-format = "sha512"
-hash = "e84ebcf271424e7bff441dee377894ee0d83c40cd53966c7b3a7b91f8e565440dee9244481b9875ef8383a6a6d0d41d3f0e53e2909dde9d65b895fc630376e65"
+hash = "c995d3e719a7ded3553b3ef331b2ea099c39c1dc4f4c66015163747481efd9148dfb204173639d61657b6f8673d89f066b30fb24867e82709c19cc64a2214622"
 
 [update]
 [update.modrinth]
 mod-id = "Y7J94SaP"
-version = "AFy6yVxO"
+version = "CM4stjKk"

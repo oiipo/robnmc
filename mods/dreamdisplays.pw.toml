@@ -1,0 +1,13 @@
+name = "Dream Displays"
+filename = "dreamdisplays-fabric-26.2-1.9.0-preview.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71551611f6f5113964ccb747df3b8094f81be978"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8464665
+project-id = 1411563
