@@ -1,6 +1,6 @@
 name = "Managing Mannequins - Fill Your World With Life!"
 filename = "managing-mannequins-2.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YMKfW8Km/versions/IXBjEcBo/managing-mannequins-2.1.jar"

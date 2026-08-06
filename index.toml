@@ -37,12 +37,22 @@ metafile = true
 
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
-hash = "96a411c5252cd2cf5dba63d528550b271714ad429cf0d1a5d878016b418ec9bc"
+hash = "bb2602a8ffc55be2481c52fc7d4f7988b75c92a6e96cb0fbb410e32e3ddc8adb"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "ebe0fe7bae4b6eefef10ff9fb7156cc9540ba007c04d4616b00a2a5301d608cf"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "a7549d639da1b91e6a4c921c2959436a78d58118f983fb89fd7ba99feebc4837"
+metafile = true
+
+[[files]]
+file = "mods/banner-flags.pw.toml"
+hash = "36b4e2c2c1448346b7a0057ea0501ddc5817ecfe8085d4a239c4dd70600b2469"
 metafile = true
 
 [[files]]
@@ -66,18 +76,8 @@ hash = "dec7b23e7a1286bdaacbe75e77b087b0f7e3ca4bc3289570eccf57712da70610"
 metafile = true
 
 [[files]]
-file = "mods/crazy-painting.pw.toml"
-hash = "b74a2c3b107cb695354ef49982ad1648f41d4d05f40011b5af4f8172d6758620"
-metafile = true
-
-[[files]]
 file = "mods/create-fly.pw.toml"
 hash = "2c53f7bdb9befb8c990f47a92c32c42a12ca36740c0fd960cbc6b4a57527e11d"
-metafile = true
-
-[[files]]
-file = "mods/dreamdisplays.pw.toml"
-hash = "a74639b01dc9b57124d12ab49be2c566fa5a79e2c0dcfa95293a0345f55dddb0"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers-text-api.pw.toml"
-hash = "4d48d862418a8ee9a3c1e8453a210adb941b7530195297ec4dcb96051fa7ec09"
+hash = "9fa9346ffa1a0a4137251c3b32f1a107f45daf00326b0dd1013c53d5145af98c"
 metafile = true
 
 [[files]]
@@ -191,8 +191,13 @@ hash = "f70d8ec7c871ad284b1e155c7a8a8461edc00c7b1ddecec0c10f212f77911376"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "6b55813a43e5fb8df2187861906ce0527034a4237370b8d7d083253dd6a25fbe"
+metafile = true
+
+[[files]]
 file = "mods/logical-efficient-tools.pw.toml"
-hash = "de4a3d600ab609fc12a1feb5c3f6389b6b13d493d7f6f20caefaf6fc91037069"
+hash = "89859f82c4f5d54f8e773089b09cc8bf0a402c1a5a4d2e2283d037c1079523ad"
 metafile = true
 
 [[files]]
@@ -202,17 +207,27 @@ metafile = true
 
 [[files]]
 file = "mods/loyal-items.pw.toml"
-hash = "eb2df94d9bb00f67251d66e641e0ca803a2b52e3b37acdd429427b78d4bfca5b"
+hash = "1d5dea48e30830a5fb7fc4f88a4f24d656db8e12e6d450bc79fa64a9b3ca11eb"
 metafile = true
 
 [[files]]
 file = "mods/managing-mannequins.pw.toml"
-hash = "9f94f3e7b22861aab1fec54cc3b2eb5285bdec82f374bde111d78d4c55fde521"
+hash = "64c9db0c8e2bbe55276210862552062bbae84663fc8366ca47fd95c17bdd1334"
 metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "40ea7513ea7b648ad4fc392d549d52d3764ec87ee0b864c42f87e3a67a6356eb"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "5d6f0a4be3f5bae00d50c86f5804a5e8c6dd6b833218f6305dfa74ed186225ee"
+metafile = true
+
+[[files]]
+file = "mods/omnicut-better-wood-stone-cutter.pw.toml"
+hash = "319f42b94f6a365761787ebb8679de6975f25ae02625903e37da810be08e7f2c"
 metafile = true
 
 [[files]]
@@ -228,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "52be8678c18fea5fa3e1484d855b9633de975e9423e2dcce85f5f2f57fe6f56f"
+metafile = true
+
+[[files]]
+file = "mods/quickleafdecay.pw.toml"
+hash = "740189c3010ec7a924a3f8f91d3bb6649eae654dbc501d0542a44b29f8ca4929"
 metafile = true
 
 [[files]]
@@ -262,7 +282,17 @@ metafile = true
 
 [[files]]
 file = "mods/survival-displays.pw.toml"
-hash = "2afa4cbf87ce49fe82d49afab35e3f19421ceeda02b549857a6457b3a6e1589c"
+hash = "25a4bb1d698c9840a2965ee51d127507b19371387d2b238b9feef454eb386ebc"
+metafile = true
+
+[[files]]
+file = "mods/underground-rivers.pw.toml"
+hash = "03d4a27e03e605c715997c4261436b554c9ce7d3d55aa67fe87356db15937dc9"
+metafile = true
+
+[[files]]
+file = "mods/universal-ledger.pw.toml"
+hash = "7cc20e782f3edc47ce17c77384ca2220d79bc25b88988f8ed445dd7c783f9640"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Loyal Items"
 filename = "Loyal Items 1.0.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YhRug9vd/versions/FNpNFYnO/Loyal%20Items%201.0.3.jar"
