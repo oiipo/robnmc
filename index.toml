@@ -51,16 +51,6 @@ hash = "c9f9627be115f45d91c1c47f5b672f58cfcff004954e3cfe5a71f5c1577ec32e"
 metafile = true
 
 [[files]]
-file = "mods/banner-flags.pw.toml"
-hash = "506662015b9224271a00e1eb207b0279a21d5caabc82b65a6b4dd9ef680114f0"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
-hash = "d8e89bbf487f5f5a59f9c2a3a7093ca83ba4ae2040c498348ad55b3f0bbc3385"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "2dc6dd62889718f63c37926e5aca38152dd241644db1c1557c6e9ee72f2919fa"
 metafile = true
@@ -191,11 +181,6 @@ hash = "a6d53d9a312a3cb6554453eb73ecd152278f7be8d12e9a8db6126b0cef1d2b68"
 metafile = true
 
 [[files]]
-file = "mods/ledger.pw.toml"
-hash = "541e9540163d37863f9a2f0660823d4cb15a7de001886d82960803a57e485024"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "eb229316b20d29f9c43986ef250dbbb905ddde009fcfe2f991971b2f8c136ea6"
 metafile = true
@@ -211,11 +196,6 @@ hash = "116e9509fc5f1001b639e925c2554ea68f418e3c2538f48023ef315f208c5b00"
 metafile = true
 
 [[files]]
-file = "mods/logical-efficient-tools.pw.toml"
-hash = "89859f82c4f5d54f8e773089b09cc8bf0a402c1a5a4d2e2283d037c1079523ad"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "8c9db79e5a51f73f784c9c807976e9f2cf9e26d9f7e28e590b65ab9a952ed269"
 metafile = true
@@ -223,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/loyal-items.pw.toml"
 hash = "1d5dea48e30830a5fb7fc4f88a4f24d656db8e12e6d450bc79fa64a9b3ca11eb"
-metafile = true
-
-[[files]]
-file = "mods/managing-mannequins.pw.toml"
-hash = "9f94f3e7b22861aab1fec54cc3b2eb5285bdec82f374bde111d78d4c55fde521"
 metafile = true
 
 [[files]]
@@ -271,6 +246,11 @@ hash = "81f98799073cb58818a07cb2692298531d1a4cd0644028b5499481c686014a07"
 metafile = true
 
 [[files]]
+file = "mods/rp-renames.pw.toml"
+hash = "b2eb94ea95d597606e689c1cb4bae0b3a4fd632d2db3c94b337d46865c07e3df"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "be7369da963f5326a771bbfa360365ac6ed939b01c2c268f4dd4a922718cd4a3"
 metafile = true
@@ -278,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+metafile = true
+
+[[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "1e7ec90af5574177ca8582b920d4e00ab8c5fea70fdf2ba4bdd2fe7ba8b30d28"
 metafile = true
 
 [[files]]
