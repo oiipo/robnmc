@@ -66,11 +66,6 @@ hash = "8b3bbd261c8e3692775873b9c470cb6f7c9a21d96a3eac7a3e7ff7bc8b39ba32"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "64e40289e5210c88b8b4390d54a836aafdc519f4c1ea1bb8666387d3a3da99cc"
-metafile = true
-
-[[files]]
 file = "mods/create-fly.pw.toml"
 hash = "44a7220975e5e6fb46fb2adec34038a2b2c060667a04809df553010c88827406"
 metafile = true
