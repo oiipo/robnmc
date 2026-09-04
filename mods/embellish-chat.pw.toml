@@ -3,11 +3,11 @@ filename = "embellish-chat-3.8.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/B0x6P0dg/versions/fcDEsNpa/embellish-chat-3.8.0.jar"
+url = "https://cdn.modrinth.com/data/B0x6P0dg/versions/OVutlU7M/embellish-chat-3.8.0.jar"
 hash-format = "sha512"
-hash = "bb5105fadf115cfdb9ab8a485e9a42561cfbb6dd95c776382290604f21f98fbe66538ba0c8dcf24fe157b398c1465ada546adddb80369dfe23f687e893ae2cae"
+hash = "f3dd242108bac3a93ec71ed89c565f39b0813c577a5c7694987d85057ec05fb506a5b4cbbd54e45f83c9be4d45ebe6a1c7ed3979ed29d5ab3e4e28e58231dd33"
 
 [update]
 [update.modrinth]
 mod-id = "B0x6P0dg"
-version = "fcDEsNpa"
+version = "OVutlU7M"

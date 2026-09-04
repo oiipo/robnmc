@@ -1,13 +1,13 @@
 name = "Embers Text API"
-filename = "emberstextapi-fabric-26.2-3.0.2.jar"
+filename = "emberstextapi-fabric-26.2-3.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OVSg4uGN/versions/CEX4ERKQ/emberstextapi-fabric-26.2-3.0.2.jar"
+url = "https://cdn.modrinth.com/data/OVSg4uGN/versions/bJvKdYqf/emberstextapi-fabric-26.2-3.0.3.jar"
 hash-format = "sha512"
-hash = "2de02d82e4e7f51122c4175eb3bbb14f81933c130df748bffbf6b61d124a9e0c15e761865096cf9b37afa23ff10440b4b9232dffb621e76e04b4a04fa2cb420a"
+hash = "40b9b633ef709150976c4a82bc154791472c52c08ac7b8d48aad4e9aa9f4a0e47e87050f821c82fdf3f23dd8f4de002f1a613ce8db48f0ab6c36b5ee66741f47"
 
 [update]
 [update.modrinth]
 mod-id = "OVSg4uGN"
-version = "CEX4ERKQ"
+version = "bJvKdYqf"
